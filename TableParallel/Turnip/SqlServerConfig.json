@@ -1,0 +1,11 @@
+﻿[
+    {
+        "Name": "SqlServer",
+        "ProviderName": "Turnip.Core.SqlServerProvider",
+        "Value": [
+            "AdventureWorks2014",
+            "Data Source=.;Initial Catalog=AdventureWorks2014;Integrated Security=True",
+            "AdventureWorks2014"
+        ]
+    }
+]

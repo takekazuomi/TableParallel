@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Azure Table",
+    "ProviderName": "Turnip.Core.AzureTableProvider",
+    "Usings": [
+        "Microsoft.WindowsAzure.Storage.Table"
+    ],
+    "Value": [
+      "TableParallel",
+      "UseDevelopmentStorage=true",
+      "TableEntity"
+    ]
+  }
+]
+
